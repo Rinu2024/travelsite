@@ -1,0 +1,38 @@
+body{
+    font-family: Verdana;
+    margin:0;
+}
+
+/* Navigation Bar */
+.navbar{
+    background-color: #ffffff;
+    width: 100%;
+    height:3em;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+} 
+.navbar__header a{
+    color:#335576;
+    font-size: 0.8em;
+    margin-left:5.5rem;
+    text-decoration: none;
+}
+.navbar__menu a{
+    list-style-type: none;
+    text-decoration: none;
+    color:black;
+    font-size: 0.9em;
+} 
+.navbar__option{
+    margin:-3.5em;
+    display:inline-block;
+    margin-right: 5.5rem;
+}   
+.navbar__hover:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 0.2em;
+    text-underline-offset: 0.5em;
+    text-decoration-color:#DB7A4E;
+}
