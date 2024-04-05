@@ -30,9 +30,3 @@ body{
     display:inline-block;
     margin-right: 5.5rem;
 }   
-.navbar__hover:hover{
-    text-decoration: underline;
-    text-decoration-thickness: 0.2em;
-    text-underline-offset: 0.5em;
-    text-decoration-color:#DB7A4E;
-}
