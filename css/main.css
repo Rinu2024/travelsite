@@ -64,7 +64,7 @@
 .recommend{
     background-color:white;
     width:100%;
-    height: 38em;
+    height: 36em;
 }
 .recommend__header{
     color:#335576;
@@ -106,3 +106,6 @@
 .recommend__link{
     text-decoration: none;
 }
+
+
+
