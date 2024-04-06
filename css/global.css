@@ -49,10 +49,12 @@ body{
 }
 .footers__email{
     color: #DB7A4E; 
-    font-weight: lighter;
     position: relative;
     left:0em;
     bottom: -2em;
+}
+.footers__weight{
+    font-weight: lighter;  
 }
 .footers__addr{ 
     margin-top: 1em;
