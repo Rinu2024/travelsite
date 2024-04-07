@@ -3,7 +3,6 @@ body{
     margin:0;
 }
 
-/* Navigation Bar */
 .navbar{
     background-color: #ffffff;
     width: 100%;
@@ -37,7 +36,6 @@ body{
     text-underline-offset: 0.5em;
     text-decoration-color:#DB7A4E;
 }
-/* Footer */
 
 .footers{
     background-color: #FEFAF5;

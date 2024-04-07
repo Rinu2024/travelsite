@@ -4,7 +4,6 @@
     padding:0;
 }
 
-/* Hero-Hawaii */
 .hero{
     background-position: 30%;
     background-size: cover;
@@ -46,14 +45,12 @@
     text-align: center;
     margin-top: 1em;
     z-index: 1;
-    /* text-decoration: underline; */
 }
 .hero__days--line{
     border-bottom: 2px solid black;
     position: relative;
     left:5%;
     width:90%;
-    /* width:249px; */
     padding-bottom: 5px;
 }
 .hero__schedule{
