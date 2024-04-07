@@ -12,6 +12,7 @@ body{
     justify-content: space-between;
     align-items: center;
     position: fixed;
+    z-index:100;
 } 
 .navbar__header a{
     color:#335576;
@@ -30,6 +31,12 @@ body{
     display:inline-block;
     margin-right: 5.5rem;
 }   
+.navbar__option--active{
+    text-decoration: underline;
+    text-decoration-thickness: 0.2em;
+    text-underline-offset: 0.5em;
+    text-decoration-color:#DB7A4E;
+}
 /* Footer */
 
 .footers{
